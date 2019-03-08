@@ -4,7 +4,7 @@
 
 <img style="width:600px;height:350px" src="img/Data Analysis Process.png"/>
 
-<img style="width=150px;float:right;height:150px;top:50px" src="img/data_analysis1.png"/>
+<img align="left" width="150" height="150" src="img/data_analysis1.png"/>
 
 # **Step 1: Ask questions**
 
