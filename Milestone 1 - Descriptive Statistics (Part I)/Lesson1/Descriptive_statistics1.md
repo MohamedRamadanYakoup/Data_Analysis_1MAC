@@ -102,6 +102,13 @@
 <img align="left" width="480px" height="430px" src="img/summ1.png">
 <img align="right" width="490px" height="500px" src="img/summ2.png">
 
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+
 # ``` Measures of Center (Mean)```
 ---
 
