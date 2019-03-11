@@ -306,7 +306,7 @@
 
 
 
-## <img src="https://latex.codecogs.com/gif.latex?\LARGE&space;\fbox{Using&space;Upper&space;case&space;Sigma&space;\sum&space;to&space;represent&space;those&space;numbers}" title="\LARGE \fbox{Using Upper case Sigma \sum to represent those numbers}" />
+## <img src="https://latex.codecogs.com/gif.latex?\LARGE&space;\fbox{Using&space;Upper&space;case&space;Sigma&space;\sum&space;to&space;represent&space;those&space;numbers}" title="\LARGE \fbox{Using Upper case Sigma \sum}" />
 
 ## For Example:-
 <img src="img/how5.png">
