@@ -95,7 +95,9 @@
  - ***For Example: The number of dogs we interact with***
  <img align="left"  width="150px" height="150px" src="img/inter1.jpg"/>
  <img align="right" width="200px" height="200px" src="img/inter2.jpg"/>
+ <p align="center">
  <img  width="200px" height="200px" src="img/inter3.jpg"/>
+ </p>
 
 # ```Data Types Summary```
 ---
@@ -154,7 +156,9 @@
  
 ## Mean:
   - ***Sum of all  values divided by the count of values.***
+  <p align="center">
   <img src="img/mean.png"/>
+  </p>
   
 ## For Example: Data Of the dogs were seen in the coffe shop through the week:-
  <img src="img/data.png"/>
