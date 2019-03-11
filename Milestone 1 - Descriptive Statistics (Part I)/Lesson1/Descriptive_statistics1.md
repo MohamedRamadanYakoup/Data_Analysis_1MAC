@@ -306,16 +306,15 @@
 
 
 
-## <img src="https://latex.codecogs.com/gif.latex?\fbox{Using Upper case Sigma $\sum$ to represen those numbers}" />:-
-<img src="img/how4.png">
+## <img src="https://latex.codecogs.com/gif.latex?\LARGE&space;\fbox{Using&space;Upper&space;case&space;Sigma&space;\sum&space;to&space;represent&space;those&space;numbers}" title="\LARGE \fbox{Using Upper case Sigma \sum to represent those numbers}" />
 
 ## For Example:-
 <img src="img/how5.png">
 
 ## Other Aggregations
-***The $\sum$ sign is used for aggregating using summation, but we might choose to aggregate in other ways. Summing is one of the most common ways to need to aggregate. However, we might need to aggregate in alternative ways. If we wanted to multiply all of our values together we would use a product sign $\Pi$ , capital Greek letter pi. The way we aggregate continuous values is with something known as integration (a common technique in calculus), which uses the following symbol ∫ which is just a long s. We will not be using integrals or products for quizzes in this class, but you may see them in the future!***
+***The <img src="https://latex.codecogs.com/gif.latex?\LARGE&space;\sum" title="\LARGE \sum" /> sign is used for aggregating using summation, but we might choose to aggregate in other ways. Summing is one of the most common ways to need to aggregate. However, we might need to aggregate in alternative ways. If we wanted to multiply all of our values together we would use a product sign <img src="https://latex.codecogs.com/gif.latex?\LARGE&space;\pi" title="\LARGE \pi" /> , capital Greek letter pi. The way we aggregate continuous values is with something known as integration (a common technique in calculus), which uses the following symbol <img src="https://latex.codecogs.com/gif.latex?\LARGE&space;\int" title="\LARGE \int" /> which is just a long s. We will not be using integrals or products for quizzes in this class, but you may see them in the future!***
 
-# Mean: <img src="https://latex.codecogs.com/gif.latex?\bar{x}=\frac{1}{n}\sum_{i=1}^n&space;x_i" title="\bar{x}=\frac{1}{n}\sum_{i=1}^n x_i" />
+# Mean: <img src="https://latex.codecogs.com/gif.latex?\LARGE&space;\bar{x}=\frac{1}{n}\sum_{i=1}^n&space;x_i" title="\LARGE \bar{x}=\frac{1}{n}\sum_{i=1}^n x_i" />
 
 # ```Summary```
 ---
