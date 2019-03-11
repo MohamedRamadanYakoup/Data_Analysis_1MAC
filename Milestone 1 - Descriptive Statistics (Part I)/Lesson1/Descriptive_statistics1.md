@@ -50,20 +50,28 @@
 ## Quantitative Data:-
 
  * ###  Numeric values that allow mathematical operations.
+ <p align="center">
  <img align="center" width="300px" height="300px" src="img/quan.png"/>
+ </p>
 
  ### Example:
    * ####  If I saw 5 dogs on manday and 6 dogs on tuesday that mean, I saw 11 dogs this week.
+   <p align="center">
    <img src="img/match.png"/>
+   </p>
 
 ## Categorical Data:-
 
  * ###  A Group or set of items.
+ <p align="center">
  <img align="center" width="300px" height="300px" src="img/cate.png"/>
+ </p>
  
  ### Example:
    * #### Breed of Dogs.
+   <p align="center">
    <img src="img/breed.png"/>
+   </p>
 
 # ```Data Types (Ordinal vs. Nominal)```
 ---
@@ -72,25 +80,33 @@
 
 ## Categorical Ordinal Data:
   - ***categorical values that are ranked.***
+  <p align="center">
   <img src="img/ordi.png"/>
+  </p>
   
 ## Categorical Nominal Data:
   - ***categorical values that don't have ranked order***
+  <p align="center">
   <img src="img/nomi.png"/>
+  </p>
 
 # ```Data Types (Continuous vs. Discrete)```
 ---
 
 ## Continous Data:
  - ***Quantitive values that can be split into smaller values.***
+ <p align="center">
  <img src="img/conti.png"/>
+ </p>
  
  - ***For Example:***
  <img src="img/cont.png"/>
  
 ## Discrete Data:
  - ***Quantitive values that are countable***
+ <p align="center">
  <img src="img/disc.png"/>
+ </p>
  
  - ***For Example: The number of dogs we interact with***
  <img align="left"  width="150px" height="150px" src="img/inter1.jpg"/>
@@ -163,7 +179,9 @@
 ## For Example: Data Of the dogs were seen in the coffe shop through the week:-
  <img src="img/data.png"/>
  
+ <p align="center">
  <img src="img/data1.png"/>
+ </p>
  
  - ***But it doesn't seem that the mean isn't in the middle of the data and it also is splitting our dogs into   decimal values which will seem strange twhen we reporting it back.***
  <img src="img/data3.png"/>
@@ -173,7 +191,9 @@
 
 ## Median:-
  - ***It's the middle value of a dataset***
+ <p align="center">
  <img src="img/median.png"/>
+ </p>
  
 ## For Example:-
  - ***The median of the data we have which seem more reasonable more than the mean.***
@@ -200,15 +220,20 @@
 
 ## Mode:-
  - ***the most frequent number in the data set.***
+ <p align="center">
  <img src="img/mode.png"/>
+ </p>
  
 ## For Exmaple:-
+ <p align="center">
  <img src="img/mode1.png"/>
+ </p>
 
 # ```What is Notation?```
 ---
-
+<p align="center">
 <img src="img/nota.png">
+</p>
 
 # ```Random Variables```
 ---
@@ -228,16 +253,21 @@
  <img src="img/col.png">
  
  - ### ***Each column of them assossiated with random variable***
+ <p align="center">
  <img src="img/rand1.png">
+ </p>
  
  - ### ***With this spreadsheet we can answer out questions***
  <img align="left" width="365px" height="400px" src="img/quest1.png">
  <img align="right" width="440px" height="400px" src="img/quest2.png">
- 
+ <p align="center">
  <img align="center" width="600px" height="500px" src="img/quest3.png">
+ </p>
  
  - ### ***Mathematically we consider random variable or column using a capital letter, so consider (X related     to "Time" column and Y related to "Buy" column)***
+ <p align="center">
  <img src="img/rand2.png">
+ </p>
 
 # ```Capital vs. Lower```
 ---
@@ -261,20 +291,11 @@
 <br />
 <br />
 <br />
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
-
-
-
 
 ## For Example:-
+ <p align="center">
  <img src="img/sub1.png">
+ </p>
 
 # ```How to calculate the mean with Notation```
 ---
@@ -284,7 +305,9 @@
  <img src="img/how.png">
  
  - ### ***What if we want to sum 100 elements of the "Time" column***
+ <p align="center">
  <img src="img/how1.png">
+ </p>
  
 ## we will use the concept of Aggregation to make simple to repesent multiple numbers into fewer numbers 
 <img align="left" width="500px" height="300px" src="img/how2.png">
@@ -310,16 +333,20 @@
 
 
 
-## <img src="https://latex.codecogs.com/gif.latex?\LARGE&space;\fbox{Using&space;Upper&space;case&space;Sigma&space;\sum&space;to&space;represent&space;those&space;numbers}" title="\LARGE \fbox{Using Upper case Sigma \sum}" />
+<img src="https://latex.codecogs.com/gif.latex?\LARGE&space;\fbox{Using&space;Upper&space;case&space;Sigma&space;\sum&space;to&space;represent&space;those&space;numbers}" title="\LARGE \fbox{Using Upper case Sigma \sum}" />
 
 ## For Example:-
+<p align="center">
 <img src="img/how5.png">
+ </p>
 
 ## Other Aggregations
 ***The <img src="https://latex.codecogs.com/gif.latex?\small&space;\sum" title="\small \sum" /> sign is used for aggregating using summation, but we might choose to aggregate in other ways. Summing is one of the most common ways to need to aggregate. However, we might need to aggregate in alternative ways. If we wanted to multiply all of our values together we would use a product sign <img src="https://latex.codecogs.com/gif.latex?\pi" title="\pi" /> , capital Greek letter pi. The way we aggregate continuous values is with something known as integration (a common technique in calculus), which uses the following symbol <img src="https://latex.codecogs.com/gif.latex?\small&space;\int" title="\small \int" /> which is just a long s. We will not be using integrals or products for quizzes in this class, but you may see them in the future!***
 
 # Mean:
+<p align="center">
 <img algin="center" src="https://latex.codecogs.com/gif.latex?\LARGE&space;\bar{x}=\frac{1}{n}\sum_{i=1}^n&space;x_i" title="\LARGE \bar{x}=\frac{1}{n}\sum_{i=1}^n x_i" />
+ </p>
 
 # ```Summary```
 ---
