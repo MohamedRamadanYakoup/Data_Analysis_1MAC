@@ -3,7 +3,7 @@
 ---
 
 ## ***Data can come in many forms:-***
-<img align="right" width="300" height="300" src="img/all.png"/>
+<img align="right" width="300" height="200" src="img/all.png"/>
 
 * ### **Text**
 
@@ -25,7 +25,7 @@
 ### And There are many other forms of Data.
 
 ## Utilizing the Data is so important in many fileds:-
-<img align="right" width="400" height="400" src="img/fields.png"/>
+<img align="right" width="400" height="200" src="img/fields.png"/>
 
 * ### **Inurance**
 
@@ -84,14 +84,15 @@
 ## Continous Data:
  - ***Quantitive values that can be split into smaller values.***
  <img src="img/conti.png"/>
+ 
  - ***For Example:***
  <img src="img/cont.png"/>
  
 ## Discrete Data:
  - ***Quantitive values that are countable***
  <img src="img/disc.png"/>
- - ***For Example: The number of dogs we interact with***
  
+ - ***For Example: The number of dogs we interact with***
  <img align="left"  width="150px" height="150px" src="img/inter1.jpg"/>
  <img align="right" width="200px" height="200px" src="img/inter2.jpg"/>
  <img  width="200px" height="200px" src="img/inter3.jpg"/>
@@ -113,7 +114,7 @@
 ---
 
 ## We need 4 main aspects when analyzing both discrete and quantative data:-
- <img align="right" width="150px" height="150px" src="img/discu.png"/>
+ <img align="right" width="250px" height="250px" src="img/discu.png"/>
  
  - #### Center
  
@@ -133,7 +134,7 @@
  - #### Outliers
  
 ## Measures of Center:-
- <img align="right" width="150px" height="150px" src="img/mes_cen.png"/>
+ <img align="right" width="250px" height="250px" src="img/mes_cen.png"/>
  
  - #### Mean
  
@@ -226,7 +227,7 @@
  <img src="img/rand1.png">
  
  - ### ***With this spreadsheet we can answer out questions***
- <img align="left" width="465px" height="400px" src="img/quest1.png">
+ <img align="left" width="365px" height="400px" src="img/quest1.png">
  <img align="right" width="440px" height="400px" src="img/quest2.png">
  
  <img align="center" width="600px" height="500px" src="img/quest3.png">
@@ -238,9 +239,9 @@
 ---
 
 ## ***Random variables & Its subset***:-
- <img align="left" src="img/sub.png">
+ <img align="left" width="265px" height="300px" src="img/sub.png">
  
- <img align="right" src="img/sub2.png">  
+ <img align="right" width="265px" height="300px" src="img/sub2.png">  
  
 <br />
 <br />
@@ -282,7 +283,7 @@
  <img src="img/how1.png">
  
 ## we will use the concept of Aggregation to make simple to repesent multiple numbers into fewer numbers 
-<img align="left" width="550px" height="300px" src="img/how2.png">
+<img align="left" width="500px" height="300px" src="img/how2.png">
 
 <img align="right" width="340px" height="300px" src="img/how3.png">  
 
@@ -305,7 +306,7 @@
 
 
 
-## $\fbox{Using Upper case Sigma $\sum$ to represen those numbers}$:-
+## <img src="https://latex.codecogs.com/gif.latex?\fbox{Using Upper case Sigma $\sum$ to represen those numbers}" />:-
 <img src="img/how4.png">
 
 ## For Example:-
