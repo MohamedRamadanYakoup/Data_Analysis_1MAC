@@ -3,7 +3,7 @@
 ---
 
 ## ***Data can come in many forms:-***
-<img align="right" width="400" height="400" src="img/all.png"/>
+<img align="right" width="300" height="300" src="img/all.png"/>
 
 * ### **Text**
 
@@ -25,7 +25,7 @@
 ### And There are many other forms of Data.
 
 ## Utilizing the Data is so important in many fileds:-
-<img align="right" width="500" height="500" src="img/fields.png"/>
+<img align="right" width="400" height="400" src="img/fields.png"/>
 
 * ### **Inurance**
 
@@ -99,8 +99,8 @@
 # ```Data Types Summary```
 ---
 
-<img align="left" width="480px" height="430px" src="img/summ1.png">
-<img align="right" width="490px" height="500px" src="img/summ2.png">
+<img align="left" width="280px" height="230px" src="img/summ1.png">
+<img align="right" width="290px" height="200px" src="img/summ2.png">
 
 <br />
 <br />
