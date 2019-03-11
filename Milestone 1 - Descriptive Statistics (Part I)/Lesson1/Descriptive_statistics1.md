@@ -312,10 +312,10 @@
 <img src="img/how5.png">
 
 ## Other Aggregations
-***The <img src="https://latex.codecogs.com/gif.latex?\sum" title="\sum" /> sign is used for aggregating using summation, but we might choose to aggregate in other ways. Summing is one of the most common ways to need to aggregate. However, we might need to aggregate in alternative ways. If we wanted to multiply all of our values together we would use a product sign <img src="https://latex.codecogs.com/gif.latex?\pi" title="\pi" /> , capital Greek letter pi. The way we aggregate continuous values is with something known as integration (a common technique in calculus), which uses the following symbol <img src="https://latex.codecogs.com/gif.latex?\int" title="\int" /> which is just a long s. We will not be using integrals or products for quizzes in this class, but you may see them in the future!***
+***The <img src="https://latex.codecogs.com/gif.latex?\small&space;\sum" title="\small \sum" /> sign is used for aggregating using summation, but we might choose to aggregate in other ways. Summing is one of the most common ways to need to aggregate. However, we might need to aggregate in alternative ways. If we wanted to multiply all of our values together we would use a product sign <img src="https://latex.codecogs.com/gif.latex?\pi" title="\pi" /> , capital Greek letter pi. The way we aggregate continuous values is with something known as integration (a common technique in calculus), which uses the following symbol <img src="https://latex.codecogs.com/gif.latex?\small&space;\int" title="\small \int" /> which is just a long s. We will not be using integrals or products for quizzes in this class, but you may see them in the future!***
 
 # Mean:
-<img src="https://latex.codecogs.com/gif.latex?\LARGE&space;\bar{x}=\frac{1}{n}\sum_{i=1}^n&space;x_i" title="\LARGE \bar{x}=\frac{1}{n}\sum_{i=1}^n x_i" />
+<img algin="center" src="https://latex.codecogs.com/gif.latex?\LARGE&space;\bar{x}=\frac{1}{n}\sum_{i=1}^n&space;x_i" title="\LARGE \bar{x}=\frac{1}{n}\sum_{i=1}^n x_i" />
 
 # ```Summary```
 ---
