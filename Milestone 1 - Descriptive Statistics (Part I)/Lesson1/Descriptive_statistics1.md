@@ -315,7 +315,7 @@
 ## Other Aggregations
 ***The $\sum$ sign is used for aggregating using summation, but we might choose to aggregate in other ways. Summing is one of the most common ways to need to aggregate. However, we might need to aggregate in alternative ways. If we wanted to multiply all of our values together we would use a product sign $\Pi$ , capital Greek letter pi. The way we aggregate continuous values is with something known as integration (a common technique in calculus), which uses the following symbol ∫ which is just a long s. We will not be using integrals or products for quizzes in this class, but you may see them in the future!***
 
-# $$Mean: \bar{x}=\frac{1}{n}\sum_{i=1}^n x_i$$
+# Mean: \bar{x}=\frac{1}{n}\sum_{i=1}^n x_i
 
 # ```Summary```
 ---
