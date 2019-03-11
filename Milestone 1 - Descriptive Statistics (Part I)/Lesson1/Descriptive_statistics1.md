@@ -273,9 +273,9 @@
 ---
 
 ## ***Random variables & Its subset***:-
- <img align="left" width="265px" height="300px" src="img/sub.png">
+ <img align="left" width="365px" height="300px" src="img/sub.png">
  
- <img align="right" width="265px" height="300px" src="img/sub2.png">  
+ <img align="right" width="365px" height="300px" src="img/sub2.png">  
  
 <br />
 <br />
@@ -333,7 +333,7 @@
 
 
 
-<img src="https://latex.codecogs.com/gif.latex?\LARGE&space;\fbox{Using&space;Upper&space;case&space;Sigma&space;\sum&space;to&space;represent&space;those&space;numbers}" title="\LARGE \fbox{Using Upper case Sigma \sum}" />
+<img src="https://latex.codecogs.com/gif.latex?\LARGE&space;\fbox{Using&space;Upper&space;case&space;Sigma&space;\sum}" title="\LARGE \fbox{Using Upper case Sigma \sum}" />
 
 ## For Example:-
 <p align="center">
