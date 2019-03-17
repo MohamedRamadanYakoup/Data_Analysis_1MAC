@@ -498,7 +498,7 @@
 
 ---
 
-## **The <span style="color:orange">LIKE</span> operator is extremely useful for working with text. You will use <span style="color:orange">LIKE</span> within a <span style="color:orange">WHERE</span> clause. The <span style="color:orange">LIKE</span> operator is frequently used with <code>%</code>. The <code>%</code> tells us that we might want any number of characters leading up to a particular set of characters or following a certain set of characters, as we saw with the <span style="color:orange">google</span> syntax above. Remember you will need to use single quotes for the text you pass to the <span style="color:orange">LIKE</span> operator, because of this lower and uppercase letters are not the same within the string. Searching for <span style="color:orange">'T'</span> is not the same as searching for <span style="color:orange">'t'</span>. In other SQL environments (outside the classroom), you can use either single or double quotes.**
+#### **The <span style="color:orange">LIKE</span> operator is extremely useful for working with text. You will use <span style="color:orange">LIKE</span> within a <span style="color:orange">WHERE</span> clause. The <span style="color:orange">LIKE</span> operator is frequently used with <code>%</code>. The <code>%</code> tells us that we might want any number of characters leading up to a particular set of characters or following a certain set of characters, as we saw with the <span style="color:orange">google</span> syntax above. Remember you will need to use single quotes for the text you pass to the <span style="color:orange">LIKE</span> operator, because of this lower and uppercase letters are not the same within the string. Searching for <span style="color:orange">'T'</span> is not the same as searching for <span style="color:orange">'t'</span>. In other SQL environments (outside the classroom), you can use either single or double quotes.**
 
 ## Pro Tips:-
 ---
@@ -538,7 +538,7 @@
 
 <img align="right" width="190" src="img/sql20.png">
 
-## The <span style="color:orange">IN</span> operator is useful for working with both numeric and text columns. This operator allows you to use an <code>=</code>, but for more than one item of that particular column. We can check one, two or many column values for which we want to pull data, but all within the same query. In the upcoming concepts, you will see the <span style="color:orange">OR</span> operator that would also allow us to perform these tasks, but the <span style="color:orange">IN</span> operator is a cleaner way to write these queries.
+#### The <span style="color:orange">IN</span> operator is useful for working with both numeric and text columns. This operator allows you to use an <code>=</code>, but for more than one item of that particular column. We can check one, two or many column values for which we want to pull data, but all within the same query. In the upcoming concepts, you will see the <span style="color:orange">OR</span> operator that would also allow us to perform these tasks, but the <span style="color:orange">IN</span> operator is a cleaner way to write these queries.
 
 ## Pro Tips:-
 
@@ -548,6 +548,8 @@
 
 <img align="right" width="250" src="img/sql22.png">
 
+<br>
+<br>
 <br>
 <br>
 <br>
@@ -621,7 +623,7 @@
 
 ---
 
-## **The <span style="color:orange">AND</span> operator is used within a <span style="color:orange">WHERE</span> statement to consider more than one logical clause at a time. Each time you link a new statement with an <span style="color:orange">AND</span>, you will need to specify the column you are interested in looking at. You may link as many statements as you would like to consider at the same time. This operator works with all of the operations we have seen so far including arithmetic operators (<code>+</code>, <code>*</code>, <code>-</code>, <code>/</code>). <span style="color:orange">LIKE</span>, <span style="color:orange">IN</span>, and <span style="color:orange">NOT</span> logic can also be linked together using the <span style="color:orange">AND</span> operator.**
+#### **The <span style="color:orange">AND</span> operator is used within a <span style="color:orange">WHERE</span> statement to consider more than one logical clause at a time. Each time you link a new statement with an <span style="color:orange">AND</span>, you will need to specify the column you are interested in looking at. You may link as many statements as you would like to consider at the same time. This operator works with all of the operations we have seen so far including arithmetic operators (<code>+</code>, <code>*</code>, <code>-</code>, <code>/</code>). <span style="color:orange">LIKE</span>, <span style="color:orange">IN</span>, and <span style="color:orange">NOT</span> logic can also be linked together using the <span style="color:orange">AND</span> operator.**
 
 ## BETWEEN Operator:-
 
@@ -672,7 +674,7 @@
 
 ---
 
-## **Similar to the <span style="color:orange">AND</span> operator, the <span style="color:orange">OR</span> operator can combine multiple statements. Each time you link a new statement with an <span style="color:orange">OR</span>, you will need to specify the column you are interested in looking at. You may link as many statements as you would like to consider at the same time. This operator works with all of the operations we have seen so far including arithmetic operators (<code>+</code>, <code>*</code>, <code>-</code>, <code>/</code>), LIKE, IN, NOT, <span style="color:orange">AND</span>, and <span style="color:orange">BETWEEN</span> logic can all be linked together using the <span style="color:orange">OR </span>operator.**
+#### **Similar to the <span style="color:orange">AND</span> operator, the <span style="color:orange">OR</span> operator can combine multiple statements. Each time you link a new statement with an <span style="color:orange">OR</span>, you will need to specify the column you are interested in looking at. You may link as many statements as you would like to consider at the same time. This operator works with all of the operations we have seen so far including arithmetic operators (<code>+</code>, <code>*</code>, <code>-</code>, <code>/</code>), LIKE, IN, NOT, <span style="color:orange">AND</span>, and <span style="color:orange">BETWEEN</span> logic can all be linked together using the <span style="color:orange">OR </span>operator.**
 
 ## **When combining multiple of these operations, we frequently might need to use parentheses to assure that logic we want to perform is being executed correctly. The video below shows an example of one of these situations.**
 
