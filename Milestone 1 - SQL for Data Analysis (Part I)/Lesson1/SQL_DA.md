@@ -327,11 +327,11 @@
 # ```ORDER BY```
 ---
 
-## The <span style="color:orange">ORDER BY</span> statement allows us to sort our results using the data in any column. If you are familiar with Excel or Google Sheets, using <span style="color:orange">ORDER BY</span>  is similar to sorting a sheet using a column. A key difference, however, is that <span style="color:orange">using ORDER BY in a SQL query only has temporary effects, for the results of that query, unlike sorting a sheet by column in Excel or Sheets</span>.
+#### The <span style="color:orange">ORDER BY</span> statement allows us to sort our results using the data in any column. If you are familiar with Excel or Google Sheets, using <span style="color:orange">ORDER BY</span>  is similar to sorting a sheet using a column. A key difference, however, is that <span style="color:orange">using ORDER BY in a SQL query only has temporary effects, for the results of that query, unlike sorting a sheet by column in Excel or Sheets</span>.
 
-## In other words, when you use ORDER BY in a SQL query, your output will be sorted that way, but then the next query you run will encounter the unsorted data again. It's important to keep in mind that this is different than using common spreadsheet software, where sorting the spreadsheet by column actually alters the data in that sheet until you undo or change that sorting. This highlights the meaning and function of a SQL "query."
+#### In other words, when you use ORDER BY in a SQL query, your output will be sorted that way, but then the next query you run will encounter the unsorted data again. It's important to keep in mind that this is different than using common spreadsheet software, where sorting the spreadsheet by column actually alters the data in that sheet until you undo or change that sorting. This highlights the meaning and function of a SQL "query."
 
-## The ORDER BY statement always comes in a query after the SELECT and FROM statements, but before the LIMIT statement. If you are using the LIMIT statement, it will always appear last. As you learn additional commands, the order of these statements will matter more.
+#### The ORDER BY statement always comes in a query after the SELECT and FROM statements, but before the LIMIT statement. If you are using the LIMIT statement, it will always appear last. As you learn additional commands, the order of these statements will matter more.
 
 ## Pro Tips:-
 <img align="left" width="222" src="img/sql9.png">
