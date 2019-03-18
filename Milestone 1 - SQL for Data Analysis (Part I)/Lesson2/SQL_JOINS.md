@@ -148,6 +148,7 @@
 
 <img align="right" width="222" src="img/join8.png">
 <br>
+
 ### **Only returns rows that appear in both tables.**
 <p align="center">
 <img  width="400" src="img/join9.png">
