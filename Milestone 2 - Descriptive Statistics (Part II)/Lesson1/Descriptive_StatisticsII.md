@@ -13,12 +13,15 @@
 1. **Range**
 <br>
 <br>
+
 2. **Interquartile Range (IQR)**
 <br>
 <br>
+
 3. **Standard Deviation**
 <br>
 <br>
+
 4. **Variance**
 <br>
 <br>
@@ -85,6 +88,7 @@
 
 <p style="text-align:center"><strong>When n is Odd number</strong></p>
 ---
+
 - **First we need to order the data to calculate Five Number summary**
 <img align="left" width="200" src="img/stat13.png">
 <img align="right" width="200" src="img/stat14.png">
@@ -144,6 +148,7 @@
 </p>
 
 <p style="text-align:center"><strong>When n is Even number</strong></p>
+
 ---
 
 - **First we need to order the data to calculate Five Number summary**
@@ -391,16 +396,27 @@ back to the five number summary, here are the corresponding box plots below each
 <img align="right" width="400" src="img/stat64.png">
 
 - **Heights**
+
 <br>
+
 - **Weights**
+
 <br>
+
 - **Scores**
+
 <br>
+
 - **Precipitation**
+
 <br>
+
 - **Distribution**
+
 <br>
+
 - **Manufacturing**
+
 <br>
 
 ## **Examples Which Follow Left Skewed Shape:-**
