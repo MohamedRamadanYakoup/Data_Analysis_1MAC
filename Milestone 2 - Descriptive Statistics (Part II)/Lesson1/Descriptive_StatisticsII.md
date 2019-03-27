@@ -26,6 +26,7 @@
 <br>
 <br>
 <br>
+
 ---
 
 # ```Histogram```
@@ -148,8 +149,6 @@
 </p>
 
 <p style="text-align:center"><strong>When n is Even number</strong></p>
-
----
 
 - **First we need to order the data to calculate Five Number summary**
 <img align="left" width="200" src="img/stat24.png">
