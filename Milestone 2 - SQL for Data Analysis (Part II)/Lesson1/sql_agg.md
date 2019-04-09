@@ -321,9 +321,13 @@
 ---
 
 - **Before we dive deeper into aggregations using <u>GROUP BY</u> statements, it is worth noting that SQL evaluates the aggregations before the <u>LIMIT</u> clause. If you don’t group by any columns, you’ll get a 1-row result—no problem there. If you group by a column with enough unique values that it exceeds the <u>LIMIT</u> number, the aggregates will be calculated, and then some rows will simply be omitted from the results.**
+
 <br>
+
 - **The <u>GROUP BY</u> always goes between <u>WHERE</u> and <u>ORDER BY</u>.**
+
 <br>
+
 - **<u>ORDER BY</u> works like <u>SORT</u> in spreadsheet software.**
 
 **Example:-**
@@ -487,9 +491,13 @@
 ---
 
 - **The order of column names in your <u>GROUP BY</u> clause doesn’t matter—the results will be the same regardless. If we run the same query and reverse the order in the <u>GROUP BY</u> clause, you can see we get the same results.**
+
 <br>
+
 - **As with <u>ORDER BY</u>, you can substitute numbers for column names in the <u>GROUP BY</u> clause. It’s generally recommended to do this only when you’re grouping many columns, or if something else is causing the text in the <u>GROUP BY</u> clause to be excessively long.**
+
 <br>
+
 - **A reminder here that any column that is not within an aggregation must show up in your <u>GROUP BY</u> statement. If you forget, you will likely get an error. However, in the off chance that your query does work, you might not like the results!**
 
 > # **DISTINCT:-**
@@ -975,9 +983,15 @@
 ---
 
 - **The CASE statement always goes in the SELECT clause.**
+
 <br>
+
 - **CASE must include the following components: WHEN, THEN, and END. ELSE is an optional component to catch cases that didn’t meet any of the other previous CASE conditions.**
+
 <br>
+
 - **You can make any conditional statement using any conditional operator (like WHERE) between WHEN and THEN. This includes stringing together multiple conditional statements using AND and OR.**
+
 <br>
+
 - **You can include multiple WHEN statements, as well as an ELSE statement again, to deal with any unaddressed conditions.**
